@@ -4,8 +4,9 @@
 
 Description goes here
 
-### Skills
+---
 
+### Skills
 - VUE JS 
 - REACT 
 - JAVASCRIPT 
@@ -20,6 +21,8 @@ Description goes here
 |  |  |
 |--|--|
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obitrim&show_icons=true)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Obitrim)|
+
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Obitrim)](https://github.com/ryo-ma/github-profile-trophy)
 
