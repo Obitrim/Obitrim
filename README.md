@@ -1,16 +1,29 @@
-### Hi there, I'm Paul 👋
+## Hi there 👋, I'm Paul Obitrim
+### Self-taught developer and Aspiring online educator
+![Self-taught developer and Aspiring online educator](https://github.com/Obitrim/Obitrim/blob/main/twitter-header.png)
 
-<!--
-**Obitrim/Obitrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Description goes here
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VUE JS 
+- REACT 
+- JAVASCRIPT 
+- HTML 
+- CSS 
+- BOOTSTRAP 
+- SASS 
+- NODE JS 
+- EXPRESS
+
+
+|  |  |
+|--|--|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obitrim&show_icons=true)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Obitrim)|
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Obitrim)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/Obitrim)  
