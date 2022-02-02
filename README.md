@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Paul Obitrim
-### Self-taught developer and Aspiring online educator
+### Software Engineer at sailboatslabs | NSS Personnel || CSS enthusiasts
 ![Self-taught developer and Aspiring online educator](https://github.com/Obitrim/Obitrim/blob/main/twitter-header.png)
 
 Description goes here
@@ -7,7 +7,9 @@ Description goes here
 ---
 
 ### Skills
-- VUE JS 
+- Typescript
+- Tailwindcss
+- Firebase
 - REACT 
 - JAVASCRIPT 
 - HTML 
