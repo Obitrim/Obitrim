@@ -8,6 +8,7 @@ Description goes here
 
 ### Skills
 - Typescript
+- NextJS
 - Tailwindcss
 - Firebase
 - REACT 
@@ -17,6 +18,7 @@ Description goes here
 - BOOTSTRAP 
 - SASS 
 - NODE JS 
+- MongoDB
 - EXPRESS
 
 
