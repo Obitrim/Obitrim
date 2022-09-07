@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NFT Generator and Internal dashboard**
 
-- 🌱 I’m currently learning **3D web development and UI/UX**
+- 🌱 I’m currently learning **DSA and UI/UX**
 
 - 💬 Ask me about **CSS, React, Tailwindcss, NodeJs, MongoDB**
 
