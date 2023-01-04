@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Obitrim/Obitrim/blob/main/WDI%20Twitter%20Header.png"/>
+
 ### Introduction
 
 ####  Hi 👋, I'm Paul
