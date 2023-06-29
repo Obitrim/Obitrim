@@ -9,13 +9,13 @@
 
 * 🌍  I'm based in Ghana
 
-* 🚀  I'm currently working on [Learn With Mochi](http://learnwithmochi.com/)
+* 🚀  I'm currently working on a Geojson generator
 
 * 🧠  I'm learning Clean code and Software Architectural and Design patterns
 
 * 🤝  I'm open to collaborating on open source projects
 
-- ⚡ Fun fact **Tailwindcss rules css frameworks** 😂
+- ⚡ Fun fact **You don't know JS** 😂
 
 ### 📊 Github Stats
 
