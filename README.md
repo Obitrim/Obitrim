@@ -9,9 +9,7 @@
 
 * 🌍  I'm based in Ghana
 
-* 🚀  I'm currently working on a Geojson generator
-
-* 🧠  I'm learning Clean code and Software Architectural and Design patterns
+* 🧠  I'm learning System Design Concepts
 
 * 🤝  I'm open to collaborating on open source projects
 
@@ -22,7 +20,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=obitrim&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=obitrim&theme=tokyonight&hide_border=true"/>|
 |-|-|
 
-|<a href="http://www.github.com/obitrim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=obitrim&bg_color=1A1B27&color=ffffff&line=70A4FC&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Commits Graph" /></a>|
+
 |---|
 
 
