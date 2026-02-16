@@ -21,8 +21,6 @@
 |-|-|
 
 
-|---|
-
 
 ### 💻 Technologies & Tools
 
